@@ -9,9 +9,9 @@ A sophisticated chatbot using pretrained models and the Retrieval-Augmented Gene
 - Preprocessed text using advanced libraries.
 - Stored data in a vector database.
 - Retrieved documents based on user queries.
-- Finetuned all models on the book for response generation and summarization.
+- Implemented all models on the book for response generation and summarization.
 
 🌟 Key Highlights:
-- Tinyllama: Defined complete pipeline for query-based responses.
-- BART: Generated summaries of retrieved documents.
-- Phi3 (ollama): Integrated with vector DB for context-aware responses.
+- Tinyllama (HuggingFace): Defined complete pipeline for query-based responses.
+- BART (HuggingFace): Generated summaries of retrieved documents.
+- Phi3 (Ollama): Integrated with vector DB for context-aware responses.
