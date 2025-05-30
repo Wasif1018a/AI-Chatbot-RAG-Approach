@@ -14,4 +14,4 @@ A sophisticated chatbot using pretrained models and the Retrieval-Augmented Gene
 🌟 Key Highlights:
 - Tinyllama (HuggingFace): Defined complete pipeline for query-based responses.
 - BART (HuggingFace): Generated summaries of retrieved documents.
-- Phi3 (Ollama): Integrated with vector DB for context-aware responses.
+- Phi3 (Ollama): Integrated for context-aware responses.
