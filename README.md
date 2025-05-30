@@ -2,7 +2,9 @@
 A sophisticated chatbot using pretrained models and the Retrieval-Augmented Generation (RAG) approach with LangChain libraries. Here's a sneak peek into the process:
 
 📚 Book: "The Intelligent Investor by Benjamin Graham"
-📊 Vector DB: Chroma 
+
+📊 Vector DB: Chroma
+
 🤖 Models: Tinyllama, BART, Phi3
 
 🔍 Process:
