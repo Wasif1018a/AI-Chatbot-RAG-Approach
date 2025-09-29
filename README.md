@@ -1,18 +1,18 @@
 # 🤖 AI-Chatbot – RAG Approach
 
-This project is a **Retrieval-Augmented Generation (RAG) based chatbot** built using pretrained models and vector databases. The system is designed to read and understand complex text (in our case, *"The Intelligent Investor by Benjamin Graham"*) and provide meaningful answers, summaries, and context-aware responses.
+This project is a **Retrieval-Augmented Generation (RAG) based chatbot** built using pretrained models and Chroma vector DB. The system is designed to read and understand complex text (in our case, *"The Intelligent Investor by Benjamin Graham"*) and provide meaningful answers, summaries, and context-aware responses.
 
 ---
 
 ## 📚 What It Does
 
-* Processes and stores book text into a **vector database** for efficient retrieval.
+* Processes and stores book text into the **Chroma vector DB** for efficient retrieval.
 * Uses **RAG** to combine search with generation, making answers more accurate.
 * Supports multiple models for different tasks:
 
   * **TinyLlama (HuggingFace):** Query-based responses.
   * **BART (HuggingFace):** Summarization of retrieved content.
-  * **Phi-3 (Ollama):** Context-aware responses.
+  * **Phi-3 (Ollama with LangChain libraries):** Context-aware responses.
 
 ---
 
