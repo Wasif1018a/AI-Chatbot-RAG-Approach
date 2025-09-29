@@ -1,4 +1,4 @@
-# 🤖 AI-Chatbot – RAG Approach
+# 🤖 RAG-Chatbot-Intelligent-Investor
 
 This project is a **Retrieval-Augmented Generation (RAG) based chatbot** built using pretrained models and Chroma vector DB. The system is designed to read and understand complex text (in our case, *"The Intelligent Investor by Benjamin Graham"*) and provide meaningful answers, summaries, and context-aware responses.
 
